@@ -1,0 +1,147 @@
+# TABA - Israeli Urban Planning Data Repository
+
+## Project Overview
+TABA is a comprehensive Israeli urban planning data repository that provides structured access to city planning documents, zoning information, and building regulations. The system serves as a centralized platform for accessing and querying urban planning data across Israeli municipalities.
+
+## Core Purpose
+- **Urban Planning Data Management**: Centralized repository for Israeli city planning documents
+- **Planning Document Search**: Advanced search capabilities for planning records and regulations  
+- **API-Driven Access**: RESTful and MCP-enabled interfaces for programmatic data access
+- **Building Regulation Queries**: Structured access to zoning laws and building restrictions
+- **Infrastructure Planning**: Tools for accessing infrastructure and conservation site data
+
+## Key Components
+
+### Data Structure
+The repository contains structured JSON data with the following schema:
+- **totalRecords**: Total count of planning records in the dataset
+- **plansSmall**: Array of individual planning entries with detailed metadata
+
+Each planning record includes:
+- **planNumber**: Unique planning document identifier
+- **planId**: Numeric plan reference
+- **cityText**: Municipality name (Hebrew)
+- **mahut**: Plan purpose and description
+- **status**: Current approval/processing status
+- **statusDate**: Last status update timestamp
+- **documentsSet**: Comprehensive document collection including:
+  - **nispachim**: Supplementary planning documents
+  - **tasritim**: Technical drawings and maps
+  - **mmg**: Downloadable document packages
+  - **map**: Government mapping system links
+  - **takanon**: Regulatory text documents
+
+### Server Architecture
+The HTTP server (`iplan_http_server.js`) provides:
+- **MCP Integration**: Model Context Protocol support for AI tool interactions
+- **SSE Endpoints**: Server-Sent Events for real-time data streaming
+- **Planning Search Tools**: Advanced filtering and search capabilities
+- **Location-Based Queries**: Geographic search functionality
+- **Building Restriction Access**: Zoning and building code queries
+- **Infrastructure Data**: Access to infrastructure and conservation information
+
+### Utility Functions
+The example.js file demonstrates:
+- **Calculator Operations**: Basic arithmetic utilities
+- **Array Processing**: Data manipulation helpers
+- **Number Formatting**: Display and processing utilities
+- **Modular Design**: Reusable utility functions
+
+## Repository Structure
+```
+TABA/
+├── city_plans.json          # Core planning data (231 records for Or Yehuda)
+├── city_plans.xlsx          # Excel version of planning data
+├── iplan_http_server.js     # MCP-enabled HTTP server
+├── example.js               # Utility functions and examples
+├── Random.md                # Additional documentation
+├── [numbered directories]/  # Individual planning project folders
+│   ├── plan_details.json   # Detailed plan information
+│   └── plan_details.xlsx   # Excel format plan details
+└── README.md               # Project documentation
+```
+
+## Usage Examples
+
+### Starting the Server
+```javascript
+node iplan_http_server.js
+```
+
+### Searching Plans
+```javascript
+// Search for plans by city
+const plans = await searchPlans({ city: "אור יהודה" });
+
+// Filter by status
+const approvedPlans = await searchPlans({ status: "מאושר" });
+
+// Location-based search
+const nearbyPlans = await searchByLocation({ 
+  coordinates: [34.8516, 32.0853],
+  radius: 1000 
+});
+```
+
+### Accessing Building Restrictions
+```javascript
+const restrictions = await getBuildingRestrictions({
+  planNumber: "552-0137539"
+});
+```
+
+## API Endpoints
+
+### Health Check
+- **GET /**: Server status and information
+- Returns server health and basic statistics
+
+### MCP Interface
+- **GET /sse**: Server-Sent Events endpoint for MCP tools
+- Supports real-time tool interactions and data streaming
+
+### Available MCP Tools
+- `search_plans`: Advanced plan search with multiple filters
+- `get_plan_details`: Retrieve detailed information for specific plans
+- `search_by_location`: Geographic-based plan discovery
+- `get_building_restrictions`: Access zoning and building regulations
+- `get_infrastructure_data`: Infrastructure planning information
+- `get_conservation_sites`: Historical and environmental conservation data
+
+## Data Sources
+- **Iplan Government Services**: Primary data source from Israeli planning authorities
+- **Base URL**: https://ags.iplan.gov.il/arcgisiplan/rest/services
+- **Coverage**: Multiple Israeli municipalities with comprehensive planning records
+
+## Technical Features
+- **Hebrew Language Support**: Full RTL text support for Hebrew planning documents
+- **Real-time Updates**: Server-Sent Events for live data synchronization
+- **Error Handling**: Comprehensive error management and logging
+- **Flexible Search**: Multiple search parameters and filtering options
+- **Document Access**: Direct links to official planning documents
+
+## Development and Integration
+- **Node.js Environment**: Server requires Node.js runtime
+- **Express Framework**: Built on Express.js for HTTP handling
+- **MCP SDK**: Uses Model Context Protocol for AI tool integration
+- **JSON Data Format**: Structured JSON for easy parsing and integration
+- **Cross-platform**: Compatible with Windows, macOS, and Linux
+
+## Use Cases
+- **Urban Planners**: Access planning documents and zoning information
+- **Architects**: Research building regulations and site restrictions
+- **Developers**: Integrate planning data into applications and services
+- **Researchers**: Analyze urban development patterns and trends
+- **Government Agencies**: Access centralized planning information
+- **AI Applications**: Provide planning data for language models and chatbots
+
+## GitMCP Optimization
+This repository is optimized for GitMCP search functionality with:
+- **Structured Documentation**: Clear, searchable content organization
+- **Keyword-Rich Descriptions**: Comprehensive terminology for urban planning
+- **API Documentation**: Detailed endpoint and tool descriptions
+- **Usage Examples**: Practical code samples and implementation guides
+- **Technical Specifications**: Clear architecture and data structure documentation
+
+## Search Keywords
+Urban planning, Israeli cities, zoning laws, building regulations, city plans, municipal planning, construction permits, infrastructure planning, conservation sites, planning documents, building restrictions, land use, development planning, architectural guidelines, planning permissions, municipal development, urban development, city zoning, planning data, building codes, planning search, MCP tools, planning API, Israeli municipalities, Or Yehuda, planning records, building permits, urban data, planning system, development regulations, planning documentation.
