@@ -1,0 +1,47 @@
+{
+    "planNumber": "552-0137539",
+    "planId": 5008857,
+    "cityText": "אור יהודה",
+    "mahut": "הרחבת זכות דרך",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 21/01/15",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5008857\\39.pdf",
+                "info": "דרכים, תנועה וחניה",
+                "codeMismach": 39
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5008857_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5008857_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5008857.zip",
+            "info": "הורדת קבצי ממג 3.5 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5008857",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5008857.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

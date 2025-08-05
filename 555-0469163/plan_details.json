@@ -1,0 +1,107 @@
+{
+    "planNumber": "555-0469163",
+    "planId": 5050318,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/566 - מתחם גניש אור יהודה",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 03/04/19",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\20_1.pdf",
+                "info": "טבלאות איזון והקצאה 1",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\20_2.pdf",
+                "info": "טבלאות איזון והקצאה 2",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\43.pdf",
+                "info": "תשתיות ביוב",
+                "codeMismach": 43
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\44.pdf",
+                "info": "תשתיות מים",
+                "codeMismach": 44
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\45.pdf",
+                "info": "תשתיות ניקוז",
+                "codeMismach": 45
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\58.pdf",
+                "info": "תשריט סקר עצים בוגרים",
+                "codeMismach": 58
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\59.pdf",
+                "info": "מסמך סקר עצים בוגרים",
+                "codeMismach": 59
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\100\\בינוי ופיתוח-נספח פיתוח כללי.pdf",
+                "info": "בינוי ופיתוח-נספח פיתוח כללי",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\100\\הוראות ניקוז.pdf",
+                "info": "הוראות ניקוז",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\100\\פרסום למתן תוקף.pdf",
+                "info": "פרסום למתן תוקף",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050318\\100\\תשתיות מים וביוב.pdf",
+                "info": "תשתיות מים וביוב",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050318_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050318_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050318.zip",
+            "info": "הורדת קבצי ממג 8.8994140625 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5050318",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050318.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

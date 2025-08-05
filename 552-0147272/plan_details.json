@@ -1,0 +1,82 @@
+{
+    "planNumber": "552-0147272",
+    "planId": 5009588,
+    "cityText": "אור יהודה",
+    "mahut": "נווה רבין מערב-שוק גולדמן",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 13/12/17",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\20.pdf",
+                "info": "טבלאות איזון והקצאה",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\בינוי ופיתוח.pdf",
+                "info": "בינוי ופיתוח",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\מים וביוב.pdf",
+                "info": "מים וביוב",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\נספח מים וביוב.pdf",
+                "info": "נספח מים וביוב",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\סקר עצים.pdf",
+                "info": "סקר עצים",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\פרסום למתן תוקף.pdf",
+                "info": "פרסום למתן תוקף",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009588\\100\\שמירה על עצים בוגרים.pdf",
+                "info": "שמירה על עצים בוגרים",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009588_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009588_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009588.zip",
+            "info": "הורדת קבצי ממג 2.0400390625 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5009588",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009588.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

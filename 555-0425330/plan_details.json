@@ -1,0 +1,34 @@
+{
+    "planNumber": "555-0425330",
+    "planId": 5050660,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1129 - רח' ההגנה 2, הסדרת מצב קיים",
+    "status": "פרסום להפקדה בעיתונים",
+    "statusDate": " 06/12/19",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim-h\\telmer\\5050660\\100\\פרסום הפקדה.pdf",
+                "info": "לא מאושר - פרסום הפקדה",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot-h\\telmer\\5050660.pdf",
+                "info": "לא מאושר - תשריט",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": null,
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim-h/telmer/5050660.pdf",
+            "info": "לא מאושר - תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

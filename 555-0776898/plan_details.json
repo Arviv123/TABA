@@ -1,0 +1,34 @@
+{
+    "planNumber": "555-0776898",
+    "planId": 5050985,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/1002 - מבנים ומוסדות ציבור ",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 22/09/22",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050985\\4_הוראות_בינוי.pdf",
+                "info": "בינוי הוראות_בינוי",
+                "codeMismach": 4
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050985_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": null,
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050985.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

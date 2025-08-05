@@ -1,0 +1,53 @@
+{
+    "planNumber": "555-0553297",
+    "planId": 5050413,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1/564 - שדרוג מרכז מסחרי נווה רבין",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 08/07/19",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050413\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050413\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050413\\100\\פרסום למתן תוקף.pdf",
+                "info": "פרסום למתן תוקף",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050413_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050413_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050413.zip",
+            "info": "הורדת קבצי ממג 2.9296875 MB",
+            "codeMismach": 0
+        },
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050413.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

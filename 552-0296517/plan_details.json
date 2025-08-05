@@ -1,0 +1,57 @@
+{
+    "planNumber": "552-0296517",
+    "planId": 5009164,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1120 - הרחבת רחוב יקותיאל אדם ",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 30/07/19",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009164\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009164\\100\\אסמכתא לגרסת הוראות.pdf",
+                "info": "אסמכתא לגרסת הוראות",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009164\\100\\אסמכתא לגרסת תשריט.pdf",
+                "info": "אסמכתא לגרסת תשריט",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009164_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009164_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009164.zip",
+            "info": "הורדת קבצי ממג 1.7841796875 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5009164",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009164.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

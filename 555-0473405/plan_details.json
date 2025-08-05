@@ -1,0 +1,38 @@
+{
+    "planNumber": "555-0473405",
+    "planId": 5050381,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/1001 - הצבת סוככים עונתיים לבתי אוכל באור יהודה ",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 20/06/19",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050381\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050381.pdf",
+                "info": "תשריט",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050381.zip",
+            "info": "הורדת קבצי ממג 1.96875 MB",
+            "codeMismach": 0
+        },
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050381.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

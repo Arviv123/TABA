@@ -1,0 +1,57 @@
+{
+    "planNumber": "555-0572487",
+    "planId": 5050785,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/574 - רח' המפעל 9, 11",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 26/02/21",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050785\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050785\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050785\\71_סקר_גזי_קרקע.pdf",
+                "info": "סקר סקר_גזי_קרקע",
+                "codeMismach": 71
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050785_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050785_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050785.zip",
+            "info": "הורדת קבצי ממג 5.4619140625 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5050785",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050785.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

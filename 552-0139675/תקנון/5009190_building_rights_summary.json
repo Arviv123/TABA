@@ -1,0 +1,76 @@
+{
+  "document_summary": {
+    "title": "תקציר זכויות בנייה - תכנית אור יהודה 552-0139675",
+    "plan_number": "552-0139675",
+    "city": "אור יהודה",
+    "document_id": "5009190",
+    "area_dunam": 2.54,
+    "summary_focus": "זכויות והגבלות בנייה"
+  },
+  "key_building_data": {
+    "total_area": "2.540 דונם",
+    "plan_type": "תכנית מפורטת",
+    "main_use": "מגורים ושימושים מעורבים",
+    "approval_year": "1965"
+  },
+  "area_breakdown": {
+    "residential_mixed": {
+      "percentage": "22.44%",
+      "area_sqm": 570.07,
+      "description": "מגורים ושימושים מעורבים"
+    },
+    "residential_b": {
+      "percentage": "55.12%",
+      "area_sqm": 1400.05,
+      "description": "מגורים ג'"
+    },
+    "public_open": {
+      "percentage": "22.44%",
+      "area_sqm": 570.03,
+      "description": "שטח ציבורי פתוח"
+    }
+  },
+  "building_regulations": {
+    "mixed_residential": {
+      "permitted_uses": [
+        "מגורים",
+        "מסחר",
+        "שירותים"
+      ],
+      "building_rights": "כפוף להוראות מפורטות בתקנון",
+      "special_conditions": "נדרשת התאמה לסביבה הקיימת"
+    },
+    "residential_b": {
+      "permitted_uses": [
+        "מגורים בלבד"
+      ],
+      "building_rights": "בהתאם להוראות התקן",
+      "special_conditions": "שמירה על אופי שכונתי"
+    },
+    "public_areas": {
+      "permitted_uses": [
+        "שטחים ציבוריים פתוחים"
+      ],
+      "restrictions": "אסור לבנות",
+      "purpose": "שירות הציבור"
+    }
+  },
+  "historical_context": {
+    "original_approval": "1965",
+    "subsequent_modifications": 8,
+    "last_update": "2007",
+    "current_status": "בתוקף"
+  },
+  "key_restrictions": {
+    "environmental": "התאמה לסביבה העירונית",
+    "infrastructure": "חיבור לתשתיות עירוניות",
+    "access": "דרישות נגישות",
+    "parking": "פתרונות חניה"
+  },
+  "implementation_notes": {
+    "phasing": "יישום בשלבים",
+    "coordination": "תיאום עם הרשויות",
+    "monitoring": "מעקב ובקרה",
+    "timeline": "10 שנים לביצוע"
+  }
+}

@@ -1,0 +1,107 @@
+{
+    "planNumber": "552-0284398",
+    "planId": 5009223,
+    "cityText": "אור יהודה",
+    "mahut": "התחדשות עירונית.",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 01/09/16",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\28.pdf",
+                "info": "פיתוח",
+                "codeMismach": 28
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\43.pdf",
+                "info": "תשתיות ביוב",
+                "codeMismach": 43
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\44.pdf",
+                "info": "תשתיות מים",
+                "codeMismach": 44
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\45_1.pdf",
+                "info": "תשתיות ניקוז 1",
+                "codeMismach": 45
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\45_2.pdf",
+                "info": "תשתיות ניקוז 2",
+                "codeMismach": 45
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\חוות דעת אקלימית.pdf",
+                "info": "חוות דעת אקלימית",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\חוות דעת שמאית-כלכלית.pdf",
+                "info": "חוות דעת שמאית-כלכלית",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\נספח ביוב ומים.pdf",
+                "info": "נספח ביוב ומים",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\סקר עצים על גבי מדידה.pdf",
+                "info": "סקר עצים על גבי מדידה",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\סקר עצים.pdf",
+                "info": "סקר עצים",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009223\\100\\שלביות הבניה והפינוי.pdf",
+                "info": "שלביות הבניה והפינוי",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009223_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009223_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009223.zip",
+            "info": "הורדת קבצי ממג 143 KB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5009223",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009223.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

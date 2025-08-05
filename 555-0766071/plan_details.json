@@ -1,0 +1,43 @@
+{
+    "planNumber": "555-0766071",
+    "planId": 5050671,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1144 רח' הרצל 49, שינוי קווי בניין",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 18/06/20",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050671\\100\\פרסום למתן תוקף.pdf",
+                "info": "פרסום למתן תוקף",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050671_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050671_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050671.zip",
+            "info": "הורדת קבצי ממג 2.1416015625 MB",
+            "codeMismach": 0
+        },
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050671.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

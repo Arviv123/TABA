@@ -1,0 +1,82 @@
+{
+    "planNumber": "552-0139675",
+    "planId": 5009190,
+    "cityText": "אור יהודה",
+    "mahut": "הריסה ופינוי בית מועצת הפועלים",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 28/09/16",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\20_1.pdf",
+                "info": "טבלאות איזון והקצאה 1",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\20_2.pdf",
+                "info": "טבלאות איזון והקצאה 2",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\45.pdf",
+                "info": "תשתיות ניקוז",
+                "codeMismach": 45
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\100\\חוות דעת עצים בוגרים.pdf",
+                "info": "חוות דעת עצים בוגרים",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\100\\ניקוז וניהול נגר עילי.pdf",
+                "info": "ניקוז וניהול נגר עילי",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009190\\100\\עצים בוגרים.pdf",
+                "info": "עצים בוגרים",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009190_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009190_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009190.zip",
+            "info": "הורדת קבצי ממג 1.060546875 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5009190",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009190.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

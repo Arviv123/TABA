@@ -1,0 +1,37 @@
+{
+    "planNumber": "552-0209262",
+    "planId": 5009084,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1118 - הראשונים 23 אור יהודה ",
+    "status": "פרסום לתוקף ברשומות",
+    "statusDate": " 31/08/17",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009084_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009084_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009084.zip",
+            "info": "הורדת קבצי ממג 4.001953125 MB",
+            "codeMismach": 0
+        },
+        "map": null,
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009084.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

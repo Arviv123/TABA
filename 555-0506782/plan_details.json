@@ -1,0 +1,62 @@
+{
+    "planNumber": "555-0506782",
+    "planId": 5050906,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/570 רחוב יגאל אלון 1",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 12/08/21",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050906\\20.pdf",
+                "info": "טבלאות איזון והקצאה",
+                "codeMismach": 20
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050906\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050906\\4.pdf",
+                "info": "בינוי",
+                "codeMismach": 4
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5050906\\100\\פרסום למתן תוקף.pdf",
+                "info": "פרסום למתן תוקף",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050906_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5050906_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5050906.zip",
+            "info": "הורדת קבצי ממג 4.0625 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5050906",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5050906.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}

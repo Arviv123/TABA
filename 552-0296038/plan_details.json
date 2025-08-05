@@ -1,0 +1,62 @@
+{
+    "planNumber": "552-0296038",
+    "planId": 5009211,
+    "cityText": "אור יהודה",
+    "mahut": "מאא/מק/1119 - הרחבת חניה ברחוב אריאל שרון",
+    "status": "פרסום לתוקף בעיתונים",
+    "statusDate": " 08/07/16",
+    "relationType": null,
+    "documentsSet": {
+        "nispachimByGroup": null,
+        "tasritimByGroup": null,
+        "nispachim": [
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009211\\28.pdf",
+                "info": "פיתוח",
+                "codeMismach": 28
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009211\\38.pdf",
+                "info": "תנועה",
+                "codeMismach": 38
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009211\\100\\אסמכתא לגרסת הוראות.pdf",
+                "info": "אסמכתא לגרסת הוראות",
+                "codeMismach": 100
+            },
+            {
+                "path": "/IturTabotData\\nispachim\\telmer\\5009211\\100\\אסמכתא לגרסת תשריט.pdf",
+                "info": "אסמכתא לגרסת תשריט",
+                "codeMismach": 100
+            }
+        ],
+        "tasritim": [
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009211_K.pdf",
+                "info": "תשריט מצב קיים",
+                "codeMismach": 0
+            },
+            {
+                "path": "/IturTabotData\\tabot\\telmer\\5009211_M.pdf",
+                "info": "תשריט מצב מוצע",
+                "codeMismach": 0
+            }
+        ],
+        "mmg": {
+            "path": "/IturTabotData\\download\\telmer\\5009211.zip",
+            "info": "הורדת קבצי ממג 1.3671875 MB",
+            "codeMismach": 0
+        },
+        "map": {
+            "path": "http://www.govmap.gov.il/mmi?app=app07&ma=5009211",
+            "info": "אתר המפות הממשלתי",
+            "codeMismach": 0
+        },
+        "takanon": {
+            "path": "/IturTabotData/takanonim/telmer/5009211.pdf",
+            "info": "תקנון סרוק",
+            "codeMismach": 0
+        }
+    }
+}
